@@ -1,2 +1,9 @@
-# Verilog-projects-
-Verilog HDL projects including ALU, counters, traffic light controller, and other digital logic designs.
+# Verilog Projects Portfolio
+
+This repository contains basic to intermediate Verilog HDL projects:
+- 4-bit ALU
+- Traffic Light Controller (FSM)
+- Synchronous Counter
+
+Tools: ModelSim / Vivado
+
